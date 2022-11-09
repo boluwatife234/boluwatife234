@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boluwatife234
+- 👋 Hi, I’m boluwatife 
 - 👀 I’m interested in ... backend web development 
 - 🌱 I’m currently learning ...frontend with react and javascript api's
 - 💞️ I’m looking to collaborate on ...
