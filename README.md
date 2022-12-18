@@ -1,6 +1,6 @@
 - 👋 Hi, I’m boluwatife 
 - 👀 I’m interested in ... backend web development 
-- 🌱 I’m a developer ...with both frontend and backend react javascript api's, node js Express js 
+- 🌱 I’m a developer ... with knowledge in react javascript api's, node js Express js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
