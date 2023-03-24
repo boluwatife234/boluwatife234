@@ -1,8 +1,8 @@
 - 👋 Hi, I’m boluwatife 
 - 👀 I’m interested in ...  web development 
 - 🌱 I’m a developer ... with knowledge in javascript api's, node js Express js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on front end development 
+- 📫 How to reach me bamidelebolu3@gmail.com
 
 <!---
 boluwatife234/boluwatife234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
