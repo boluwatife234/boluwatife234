@@ -1,7 +1,7 @@
 - 👋 Hi, I’m boluwatife 
-- 👀 I’m interested in ...  web development 
+- 👀 I’m interested in ...  front end web development 
 - 🌱 I’m a developer ... with knowledge in javascript api's, node js Express js 
-- 💞️ I’m looking to collaborate on front end development 
+- 💞️ I’m looking to collaborate on front end development with react and other frontend frameworks
 - 📫 How to reach me bamidelebolu3@gmail.com
 
 <!---
