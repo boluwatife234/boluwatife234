@@ -1,4 +1,4 @@
-- 👋 Hi, I’m boluwatife 
+- 👋 Hi, I’m bamidele Bolu
 - 👀 I’m interested in Data Analysis, Data Science and Database Analysis
 - 🌱Proficient in SQL, Python, Machine Learning, Excel,Postgre,Pandas,Data visualisation using Seaborn
 - 💞️ I’m looking to collaborate on project
