@@ -1,8 +1,8 @@
 - 👋 Hi, I’m boluwatife 
-- 👀 I’m interested in ...  front end web development 
-- 🌱 I’m a developer ... with knowledge in javascript api's, node js Express js 
-- 💞️ I’m looking to collaborate on backend development with node js and other frontend frameworks
-- 📫 How to reach me bamidelebolu3@gmail.com
+- 👀 I’m interested in Machine learning
+- 🌱 I’m a data analyst/scientist ... with knowledge in SQL,Postgre SQL Pandas, Python, And Excel package
+- 💞️ I’m looking to collaborate with 
+- 📫 How to reach me  via my gmail addresses : bamidelebolu3@gmail.com / temitopebamidele854@gmail.com
 
 <!---
 boluwatife234/boluwatife234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
